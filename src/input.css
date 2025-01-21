@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@font-face {
+  font-family: "Roobert";
+  src: url("./roobert.ttf") format("truetype");
+}
+* {
+  font-family: "Roobert";
+}
