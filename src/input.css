@@ -3,7 +3,7 @@
 @tailwind utilities;
 @font-face {
   font-family: "Roobert";
-  src: url("./roobert.ttf") format("truetype");
+  src: url("../public/roobert.ttf") format("truetype");
 }
 * {
   font-family: "Roobert";
