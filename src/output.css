@@ -1181,6 +1181,18 @@ video {
   outline-offset: 2px;
 }
 
+.duration-500 {
+  transition-duration: 500ms;
+}
+
+.duration-300 {
+  transition-duration: 300ms;
+}
+
+.duration-200 {
+  transition-duration: 200ms;
+}
+
 @font-face {
   font-family: "Roobert";
 
